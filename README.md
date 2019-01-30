@@ -8,7 +8,7 @@ We will start with the frontend app.
 
 This lesson we will cover:
 
-- [Setting up the routers](./01-router-setup/README.md)
+- [Setting up the router](./01-router-setup/README.md)
 
 - [Creating a Cats component](../02-cats-component/README.md)
 
