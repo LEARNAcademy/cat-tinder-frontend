@@ -40,4 +40,4 @@ Next is setting up a Cats Component.
 [Go to Cats Component](../02-cats-component/README.md)
 
 
-[Back to Intro](../README.md)   
+[Back to Intro](..)   
