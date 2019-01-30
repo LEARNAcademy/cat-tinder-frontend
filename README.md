@@ -6,6 +6,16 @@ This section of the course is dedicated to tying those tools together to build a
 
 We will start with the frontend app.
 
+This lesson we will cover:
+
+- [Setting up the routers](./01-router-setup/README.md)
+
+- [Creating a Cats component](../02-cats-component/README.md)
+
+- [Creating a new cat form](../03-new-cat-form/README.md)
+
+- [Connect form submit to a function](../03-new-cat-form/README.md)
+
 ## The Project: Cat Tinder
 
 Let's start with some wireframes for our project.
