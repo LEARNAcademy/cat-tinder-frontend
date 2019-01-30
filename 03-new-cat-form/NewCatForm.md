@@ -100,4 +100,6 @@ As a General Rule:
 * Test behavior of the component, especially if it directly affects the user experience.
 
 [Go to New Cat Submit](../04-new-cat-submit/NewCatSubmit.md)
+
+
 [Back to Cats Component](../02-cats-component/CatsComponent.md)
