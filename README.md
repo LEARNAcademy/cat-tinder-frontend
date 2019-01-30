@@ -36,4 +36,4 @@ I'm going to use the "United" theme from bootswatch.com, so I'll add the stylesh
 
 Once you have your app all set up, you are ready to start building your pages using `react-router`.
 
-[Go to Setup the router](./01-router-setup/RouterSetup.md)
+[Go to Setup the router](./01-router-setup/README.md)
