@@ -25,12 +25,12 @@ I'm going to use the "United" theme from bootswatch.com, so I'll add the stylesh
 ```
 
 ## Setup the router
-```javascript
+```jsx
 import React, { Component } from 'react'
-import { BrowserRouter as Router, Switch, Route } from ‘react-router-dom'
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 
-import Cats from ‘./pages/Cats’
-import NewCat from ‘./pages/NewCat’
+import Cats from './pages/Cats'
+import NewCat from './pages/NewCat'
 
 class App extends Component {
   render() {
@@ -189,7 +189,7 @@ it('Cats renders without crashing', () => {
 That will fail until we create the component
 
 #### src/pages/Cats.js
-```javascript
+```jsx
 import React, { Component } from 'react';
 import {
   Grid, Col, Row
