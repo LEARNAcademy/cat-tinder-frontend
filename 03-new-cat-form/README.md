@@ -101,7 +101,7 @@ As a General Rule:
 
 Next is connecting our submit button to a function.
 
-[Go to New Cat Submit](../04-new-cat-submit/NewCatSubmit.md)
+[Go to New Cat Submit](../04-new-cat-submit/README.md)
 
 
-[Back to Cats Component](../02-cats-component/CatsComponent.md)
+[Back to Cats Component](../02-cats-component/README.md)
