@@ -99,6 +99,8 @@ As a General Rule:
 * Test that you get the correct outputs based on specific inputs.
 * Test behavior of the component, especially if it directly affects the user experience.
 
+Let's take a look now at how to connect our submit button to a function.
+
 [Go to New Cat Submit](../04-new-cat-submit/NewCatSubmit.md)
 
 
