@@ -25,7 +25,7 @@ it('Cats renders without crashing', () => {
 That will fail until we create the component
 
 #### src/pages/Cats.js
-```javascript
+```jsx
 import React, { Component } from 'react';
 import {
   Grid, Col, Row

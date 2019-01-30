@@ -1,10 +1,10 @@
 # Setup the router
 ```javascript
 import React, { Component } from 'react'
-import { BrowserRouter as Router, Switch, Route } from ‘react-router-dom'
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 
-import Cats from ‘./pages/Cats’
-import NewCat from ‘./pages/NewCat’
+import Cats from './pages/Cats'
+import NewCat from './pages/NewCat'
 
 class App extends Component {
   render() {
