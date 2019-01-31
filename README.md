@@ -10,11 +10,11 @@ This lesson we will cover:
 
 - [Setting up the router](./01-router-setup/README.md)
 
-- [Creating a Cats component](../02-cats-component/README.md)
+- [Creating a Cats component](./02-cats-component/README.md)
 
-- [Creating a new cat form](../03-new-cat-form/README.md)
+- [Creating a new cat form](./03-new-cat-form/README.md)
 
-- [Connect form submit to a function](../03-new-cat-form/README.md)
+- [Connect form submit to a function](./03-new-cat-form/README.md)
 
 ## The Project: Cat Tinder
 
