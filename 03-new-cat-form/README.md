@@ -67,7 +67,7 @@ And then for each input, we bind its value to state. We'll add a name to the inp
 
 #### src/pages/NewCat.js
 ```javascript
-<FormControl
+<Form.Control
   type="text"
   name="name"
   onChange={this.handleChange.bind(this)}
