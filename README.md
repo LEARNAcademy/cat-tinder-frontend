@@ -14,7 +14,7 @@ This lesson we will cover:
 
 - [Creating a new cat form](./03-new-cat-form/README.md)
 
-- [Connect form submit to a function](./03-new-cat-form/README.md)
+- [Connect form submit to a function](./03-new-cat-submit/README.md)
 
 ## The Project: Cat Tinder
 
