@@ -20,7 +20,7 @@ User inputs data into the form. The form is controlled, and saves all data direc
 #### 3. Form Submit
 
 ##### in pages/NewCat.js
-User hits submit - this is our signal that they are finished filling in their information. The form runs an onClick function, which calls the function held in props from App.js. That function runs and sends the form data (currently in state) to the logic component (in our case App.js)
+User hits submit - this is our signal that they are finished filling in their information. The form runs an onSubmit function, which calls the function held in props from App.js. That function runs and sends the form data (currently in state) to the logic component (in our case App.js)
 
 #### 4. Pass Data to the API
 
